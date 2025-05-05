@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/paymanai-payman-doc-mcp-server-badge.png)](https://mseep.ai/app/paymanai-payman-doc-mcp-server)
+
 # Payman AI Documentation MCP Server
 
 MCP server that provides easy access to Payman AI's documentation and helps developers build integrations more efficiently.
